@@ -53,10 +53,6 @@ This project is updated chapter-wise and is designed to help beginners easily un
 Suggestions, corrections, or improvements are welcome!  
 Feel free to open an issue or submit a pull request.
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Happy learning! 🚀
